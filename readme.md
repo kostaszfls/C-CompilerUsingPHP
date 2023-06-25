@@ -19,9 +19,8 @@ To use this C Compiler, you need the following:
    php -v
 Start a web server that supports PHP and configure it to serve the repository directory. For example, if you're using the built-in PHP web server, navigate to the repository directory in the terminal and run the following command:
 
-shell
-Copy code
-php -S localhost:8000
+   ```shell
+   php -S localhost:8000
 Open a web browser and navigate to http://localhost:8000/. You should see the C Compiler app interface.
 
 In the textarea, enter your desired C code.
