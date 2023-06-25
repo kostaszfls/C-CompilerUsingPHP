@@ -1,14 +1,14 @@
-#C Compiler using PHP
+# C Compiler using PHP
 
 This is a simple C Compiler implemented using PHP. It allows users to input C code, which is then compiled and executed using the system's C compiler. The output or compilation errors are displayed to the user.
 
-#Prerequisites
+## Prerequisites
 
 To use this C Compiler, you need the following:
 
 PHP (version 5.4 or later)
 A C compiler installed on the system (e.g., GCC)
-#Usage
+## Usage
 
 Clone or download the repository to your local machine.
 Ensure that PHP is installed on your system. You can check the PHP version by running the following command in the terminal:
@@ -45,7 +45,7 @@ This project is licensed under the MIT License.
 
 Feel free to contribute, modify, and distribute the code as per the terms of the license.
 
-#Acknowledgements
+## Acknowledgements
 
 This project was inspired by the need for a simple C Compiler implementation using PHP. Thanks to the developers and contributors of PHP, GCC, and other open-source tools and libraries used in this project.
 
