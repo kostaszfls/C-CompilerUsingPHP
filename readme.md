@@ -36,7 +36,7 @@ This project was inspired by the need for a simple C Compiler implementation usi
 
 Feel free to customize this README file based on your specific implementation and requirements. Provide clear instructions on how to use the compiler and any necessary configuration. Include any additional information or considerations that are relevant to your implementation.
 
-# # Security Considerations
+## Security Considerations
 Running arbitrary code provided by users can pose security risks. It is important to take appropriate precautions to prevent unauthorized access and malicious code execution. Consider implementing the following measures:
 
 Input Validation: Validate and sanitize the user's input to ensure it conforms to the expected format and prevent code injection attacks.
